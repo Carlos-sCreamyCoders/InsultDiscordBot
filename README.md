@@ -1,4 +1,4 @@
-![](tutorials/images/tracktion_engine_powered.png)
+![](logo.png)
 
 
 # Insult Bot
