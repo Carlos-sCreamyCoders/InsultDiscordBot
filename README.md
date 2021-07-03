@@ -22,6 +22,9 @@ To install discord.py
 ```
 $ pip install discord.py
 ```
+Make sure that your bot's token is in main.py, the last few lines have notes on how to do it.
+
+Compile main.cpp and run main.py whenever you want the bot to be active.
 
 ## License
 This project is covered by a [GPL](https://www.gnu.org/licenses/gpl-3.0.en.html)
