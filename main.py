@@ -31,4 +31,4 @@ async def genInsult(ctx):
     f.close()
 
 #the ID is sensative, so remove it when publicating
-client.run('ODYwNzY2MDI3MDIwMTA3ODA2.YOAA1Q.WKbPLMGAiKDExFmEomgqQcGuGGI')
+client.run('')
