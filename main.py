@@ -31,4 +31,6 @@ async def genInsult(ctx):
     f.close()
 
 #the ID is sensative, so remove it when publicating
-client.run('')
+client.run('')  # <--- put your bot's token
+#https://discord.com/developers/applications
+#then choose your app, then under 'bot' you can copy the token
