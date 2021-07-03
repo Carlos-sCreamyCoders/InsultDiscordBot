@@ -1,15 +1,27 @@
-# InsultDiscordBot
-Discord bot that uses a really bad language model to genereate (in this case) insults. Since it uses a general language model, you can have it output anything you want.
+![](tutorials/images/tracktion_engine_powered.png)
 
 
-# Instructions
-First you need to create a discord bot. Use someone else's documentation for that.
- You also need:
- - python installed
- - discord.py installed (pip install discord.py)
+# Insult Bot
+##### Where garbage code punishes garbage people!
+A discord bot that uses a poorly made language model to generate insults. Because it is a general language model, it can output anything.
+
+
+## Getting Started
+Create a discord Bot.
+
+Clone the repo:
+```
+$ git clone https://github.com/Carlos-sCreamyCoders/InsultDiscordBot.git
+```
+##### Make sure you have
+ - python
  - c++ compiler
+ - discord.py
 
-Compile main.cpp to a.out (g++ main.cpp)
-Run main.py (python main.py)
-The bot will be running
-Use !helpInsult for list of commands
+To install discord.py
+```
+$ pip install discord.py
+```
+
+## License
+This project is covered by a [GPL](https://www.gnu.org/licenses/gpl-3.0.en.html)
