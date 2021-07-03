@@ -3,7 +3,7 @@
 
 # Insult Bot
 ##### Where garbage code punishes garbage people!
-A discord bot that uses a poorly made language model to generate insults. Because it is a general language model, it can output anything.
+A discord bot that uses a poorly made language model to generate insults. Because it is a general language model, it can output anything. I would encourage anyone messing with this to modify the language model in main.cpp (M_VAL and OUT_LENGTH) and swap out the training data with whatever you want.
 
 
 ## Getting Started
